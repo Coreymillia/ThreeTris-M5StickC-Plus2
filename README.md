@@ -134,7 +134,7 @@ ThreeTris features **8 unique triomino pieces**, all with exactly 1-3 blocks:
 
 ### Rotation System
 - All pieces rotate **clockwise** around their center block
-- No wall-kicks or SRS complexity
+- Wall kicks on all pieces. 
 - Simple, predictable rotation behavior
 
 ---
