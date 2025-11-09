@@ -1,4 +1,4 @@
-# ThreeTris v3.0 🎮
+# ThreeTris v3.3🎮
 
 **The Ultimate 3-Block Tetris Game for M5StickC Plus2**
 
